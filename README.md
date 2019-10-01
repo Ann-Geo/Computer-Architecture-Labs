@@ -2,7 +2,7 @@
 Programming assignments for Computer Architecture course - Branch predictors, Cache simulator
 
 
-Cache simulator
+Cache simulator:
 A cache simulator implementation in C, that is able to read the provided memory access trace file and simulate the behavior of cache. 
 The simulation scenarios assumed in this program are,
 - LRU as the replacement policy
