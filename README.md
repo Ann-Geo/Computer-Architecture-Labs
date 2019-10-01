@@ -9,8 +9,8 @@ Following BPs are implemented,
 - One level branch Prediction
 - Two Level Global Branch Prediction
 - Two Level Gshare Branch Predictor
-- Two Level Local Branch Prediction (assume 128 entry for Local History Register Table)\
-Also implemented a hybrid BP that combines the benefits of Gshare and Two Level Local BP.
+- Two Level Local Branch Prediction (assume 128 entry for Local History Register Table)
+- Also implemented a hybrid BP that combines the benefits of Gshare and Two Level Local BP.
 
 
 
